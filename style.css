@@ -19,7 +19,11 @@ section{
 
 .tag{
     border: 1px solid;
-    padding: 0.2rem;
+    color: grey;
+    border-radius: 3px;
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.25rem;
 }
 
 /* Background images styles */
