@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My third post
+description: Atque veniam similique aliquid deserunt dolores rem temporibus distinctio nulla fuga et, cum ipsa facere!
 author: Jane Doe
 categories: [self care, bali]
 featured_image: https://www.instituteofcode.com/houdini.jpg

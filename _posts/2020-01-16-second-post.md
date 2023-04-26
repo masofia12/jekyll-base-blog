@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My second post
+description: Quaerat, omnis vel laudantium, dignissimos nostrum quos qui ullam totam placeat.
 author: Jane Doe
 categories: [travel, australia]
 featured_image: https://www.instituteofcode.com/houdini.jpg

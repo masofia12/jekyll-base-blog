@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My first post
+description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, omnis vel laudantium.
 author: John Doe
 categories: [travel, bali]
 featured_image: https://www.instituteofcode.com/houdini.jpg
